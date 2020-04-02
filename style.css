@@ -1,0 +1,59 @@
+{
+    margin: 0;
+    padding: 0;
+    font-family: ;
+}
+
+body{
+    background-color: rgb(54, 54, 54);
+}
+.skeleton img{
+    margin-top: -150px;
+   margin-left: 100px;
+    height: 1000px;
+    width: auto;
+}
+
+u1{
+    list-style-type: none;
+    float: right;
+    margin-top: 20px;
+}
+
+u1 l1 a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 28px;
+    transition: ease-in 0.5s;
+}
+u1 l1 a:hover{
+    background-color: white;
+    color: black;
+}
+
+.DP img{
+    width: 100px;
+    height: 100px ;
+}
+
+.title{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+tbody{
+    color: white;
+    position: absolute;
+    left: 40%;
+    top: 70%;
+}
+h1{
+    padding: 50px;
+    margin-top: 400px;
+    background-color: rgba(122, 122, 122, 0.514);
+    border-radius: 80px;
+
+}
+
